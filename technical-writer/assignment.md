@@ -1,5 +1,7 @@
 # Debug Operations in Kubernetes
 
+The `kubectl` Command-Line Interface (CLI) allows you to interact with the Kubernetes API server. You can use kubectl to troubleshoot and debug your cluster resources.
+
 Kubernetes contains several commands, sometimes we can use these commands to do things. A good command to know is kubectl get pods which is used to get a list of all pods that are available and what their status is. Just rememember that when you use this command tat you may have to specify the `namespace`.
 
 ```shell
