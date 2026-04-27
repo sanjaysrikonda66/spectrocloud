@@ -29,7 +29,7 @@ We recommend following this sequence when you debug a container:
 
 ## Retrieve Pod Status
 
-Issue the following command to retrieve a list of all available pods and their current status. You must specify the Namespace if the pods are not in the default Namespace:
+Issue the following command to retrieve a list of all available pods and their current status. You must specify the namespace if the pods are not in the default namespace:
 
 ### Retrieve All Pods In A Namespace
 
