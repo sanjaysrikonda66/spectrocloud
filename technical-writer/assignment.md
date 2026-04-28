@@ -1,7 +1,8 @@
+# Debug Operations in Kubernetes  
 
 The `kubectl` Command-Line Interface (CLI) allows you to interact with the Kubernetes API server. Use `kubectl` to troubleshoot and debug your cluster resources.
 
-## Prerequisites
+## Prerequisites   
 
  * You must have access to the Kubernetes containers.
  * A SpectroCloud account with access to see your containers and pods.
