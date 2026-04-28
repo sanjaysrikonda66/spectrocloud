@@ -1,6 +1,6 @@
 # Debug Operations in Kubernetes
 
-The kubectl Command-Line Interface (CLI) is the primary tool for managing Kubernetes clusters. It acts as a bridge between your local environment and the Kubernetes API server, allowing you to perform CRUD (Create, Read, Update, Delete) operations on cluster resources.
+The `kubectl` Command-Line Interface (CLI) is the primary tool for managing Kubernetes clusters. It acts as a bridge between your local environment and the Kubernetes API server, allowing you to perform CRUD (Create, Read, Update, Delete) operations on cluster resources.
 
 Beyond basic resource management, we use `kubectl` to investigate the internal state of the cluster. For example, you can view real-time events, inspect hardware resource consumption, and port-forward local traffic into a private pod for isolated testing. Because it supports multiple output formats like JSON and YAML, it integrates seamlessly into Docs-as-Code workflows and automated CI/CD pipelines, making it indispensable for both manual troubleshooting and automated infrastructure management.
 
