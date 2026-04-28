@@ -9,7 +9,7 @@ Beyond basic resource management, we use `kubectl` to investigate the internal s
  * You must have access to the Kubernetes containers.
  * A SpectroCloud account with access to see your containers and pods.
  * An active [host cluster](https://docs.spectrocloud.com/glossary-all/#host-cluster). Refer to [Getting Started](https://docs.spectrocloud.com/getting-started/) for tutorials and instructions on how to deploy a cluster.
- * [Kubectl](https://docs.spectrocloud.com/clusters/cluster-management/palette-webctl/)  installed and configured to access your host cluster. Refer to the [Access Cluster with CLI](https://docs.spectrocloud.com/clusters/cluster-management/palette-webctl/) page for guidance on how to access your cluster with the kubectl CLI.
+ * [Kubectl](https://docs.spectrocloud.com/clusters/cluster-management/palette-webctl/)  installed and configured to access your host cluster. Refer to the [Access Cluster with CLI](https://docs.spectrocloud.com/clusters/cluster-management/palette-webctl/) page for guidance on how to access your cluster with the `kubectl` CLI.
 
 
 ## Relationship of Kubernetes Clusters, Namespaces, Pods, and Containers
