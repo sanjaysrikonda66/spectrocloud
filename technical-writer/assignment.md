@@ -1,4 +1,4 @@
-# Debug Operations in Kubernetes
+# Debug Operations in Kubernetes  
 
 The `kubectl` Command-Line Interface (CLI) allows you to interact with the Kubernetes API server. Use `kubectl` to troubleshoot and debug your cluster resources.
 
